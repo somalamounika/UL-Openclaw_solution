@@ -1,0 +1,7 @@
+source_type,source_node,relationship,destination_type,destination_node,description,keywords
+company,"Apex Electronics Manufacturing Services Co., Ltd.",has_location,location,"88 Innovation Avenue, Yen Phong Industrial Park, Bac Ninh 16000, Vietnam",The company has this registered office address.,"registered office, address"
+company,"Apex Electronics Manufacturing Services Co., Ltd.",has_location,location,Jurong Innovation District,The company has a global commercial office there.,"commercial office, location"
+company,"Apex Electronics Manufacturing Services Co., Ltd.",has_location,location,AEMS Shenzhen Operations,The company operates a site in Shenzhen.,"site, operations"
+company,"Apex Electronics Manufacturing Services Co., Ltd.",has_location,location,AEMS India Electronics Campus,The company operates a campus in India.,"site, operations"
+company,"Apex Electronics Manufacturing Services Co., Ltd.",has_location,location,"26 Science Park Drive, Jurong Innovation District, Singapore 609931",The company has this commercial office address.,"office, address"
+company,AEMS,has_location,location,"26 Science Park Drive, Jurong Innovation District, Singapore 609931",AEMS has this commercial office address.,"office, address"

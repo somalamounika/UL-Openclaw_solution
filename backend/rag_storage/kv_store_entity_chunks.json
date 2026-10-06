@@ -1,0 +1,4540 @@
+{
+  "MacBook Air (13-inch, M4, 2025)": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "MacBook Air (13-inch, M4, 2025)"
+  },
+  "Apple M4 Chip": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apple M4 Chip"
+  },
+  "Apple Intelligence": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apple Intelligence"
+  },
+  "Liquid Retina Display": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Liquid Retina Display"
+  },
+  "Unified Memory": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Unified Memory"
+  },
+  "SSD Storage": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "SSD Storage"
+  },
+  "Lithium-Polymer Battery": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Lithium-Polymer Battery"
+  },
+  "MacOS": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "MacOS"
+  },
+  "Wi-Fi 6E": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 3,
+    "update_time": 1791262517,
+    "_id": "Wi-Fi 6E"
+  },
+  "Bluetooth 5.3": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Bluetooth 5.3"
+  },
+  "12MP Center Stage Camera": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "12MP Center Stage Camera"
+  },
+  "Four-Speaker Sound System": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Four-Speaker Sound System"
+  },
+  "Media Engine": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Media Engine"
+  },
+  "Sky Blue": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Sky Blue"
+  },
+  "Silver": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Silver"
+  },
+  "Starlight": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Starlight"
+  },
+  "Midnight": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Midnight"
+  },
+  "MagSafe 3 Charging Port": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "MagSafe 3 Charging Port"
+  },
+  "3.5mm Headphone Jack": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "3.5mm Headphone Jack"
+  },
+  "Two Thunderbolt 4 (USB-C) Ports": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Two Thunderbolt 4 (USB-C) Ports"
+  },
+  "Backlit Magic Keyboard": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Backlit Magic Keyboard"
+  },
+  "Force Touch Trackpad": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Force Touch Trackpad"
+  },
+  "Spatial Audio": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Spatial Audio"
+  },
+  "AirPods": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "AirPods"
+  },
+  "AirPods Pro": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "AirPods Pro"
+  },
+  "AirPods Max": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "AirPods Max"
+  },
+  "Three-Mic Array": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Three-Mic Array"
+  },
+  "Voice Isolation": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Voice Isolation"
+  },
+  "Wide Spectrum": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Wide Spectrum"
+  },
+  "Apple Lossless": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apple Lossless"
+  },
+  "FLAC": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "FLAC"
+  },
+  "Dolby Digital": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Dolby Digital"
+  },
+  "Dolby Digital Plus": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Dolby Digital Plus"
+  },
+  "Dolby Atmos": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Dolby Atmos"
+  },
+  "HEVC": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "HEVC"
+  },
+  "H.264": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "H.264"
+  },
+  "ProRes": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "ProRes"
+  },
+  "ProRes RAW": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "ProRes RAW"
+  },
+  "AV1": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "AV1"
+  },
+  "HDR": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "HDR"
+  },
+  "Dolby Vision": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Dolby Vision"
+  },
+  "HDR10+": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "HDR10+"
+  },
+  "HDR10": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "HDR10"
+  },
+  "HLG": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "HLG"
+  },
+  "Mac User Guide": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Mac User Guide"
+  },
+  "MacBook Air": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "MacBook Air"
+  },
+  "Apple": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 4,
+    "update_time": 1790845618,
+    "_id": "Apple"
+  },
+  "MacBook Air Product Environmental Report": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "MacBook Air Product Environmental Report"
+  },
+  "Apple 2030": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apple 2030"
+  },
+  "ENERGY STAR®": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "ENERGY STAR®"
+  },
+  "Zero Waste Programme": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Zero Waste Programme"
+  },
+  "App Store": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "App Store"
+  },
+  "Books": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Books"
+  },
+  "Calendar": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Calendar"
+  },
+  "Contacts": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Contacts"
+  },
+  "FaceTime": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "FaceTime"
+  },
+  "Find My": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Find My"
+  },
+  "Freeform": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Freeform"
+  },
+  "GarageBand": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "GarageBand"
+  },
+  "Home": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Home"
+  },
+  "iMovie": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "iMovie"
+  },
+  "iPhone Mirroring": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "iPhone Mirroring"
+  },
+  "Keynote": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Keynote"
+  },
+  "Mail": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Mail"
+  },
+  "Maps": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Maps"
+  },
+  "Messages": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Messages"
+  },
+  "Music": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Music"
+  },
+  "News": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "News"
+  },
+  "Notes": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Notes"
+  },
+  "Numbers": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Numbers"
+  },
+  "Pages": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Pages"
+  },
+  "Passwords": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Passwords"
+  },
+  "Photo Booth": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Photo Booth"
+  },
+  "Photos": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Photos"
+  },
+  "Podcasts": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Podcasts"
+  },
+  "Preview": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Preview"
+  },
+  "QuickTime Player": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "QuickTime Player"
+  },
+  "Reminders": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Reminders"
+  },
+  "Safari": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Safari"
+  },
+  "Shortcuts": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Shortcuts"
+  },
+  "Stocks": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Stocks"
+  },
+  "Time Machine": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Time Machine"
+  },
+  "Tips": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Tips"
+  },
+  "TV": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "TV"
+  },
+  "Voice Memos": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Voice Memos"
+  },
+  "Weather": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Weather"
+  },
+  "Voice Control": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Voice Control"
+  },
+  "VoiceOver": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "VoiceOver"
+  },
+  "Siri and Dictation": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Siri and Dictation"
+  },
+  "Increase Contrast": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Increase Contrast"
+  },
+  "Reduce Motion": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Reduce Motion"
+  },
+  "Switch Control": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Switch Control"
+  },
+  "Zoom": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Zoom"
+  },
+  "M4 With 10-Core CPU And 10-Core GPU": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "M4 With 10-Core CPU And 10-Core GPU"
+  },
+  "24GB Or 32GB Unified Memory": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "24GB Or 32GB Unified Memory"
+  },
+  "512GB, 1TB Or 2TB SSD": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "512GB, 1TB Or 2TB SSD"
+  },
+  "30W USB-C Power Adapter (M4 With 8-Core GPU) Or 35W Dual USB-C Port Power Adapter (M4 With 10-Core GPU)": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "30W USB-C Power Adapter (M4 With 8-Core GPU) Or 35W Dual USB-C Port Power Adapter (M4 With 10-Core GPU)"
+  },
+  "USB-C To MagSafe 3 Cable (2m)": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "USB-C To MagSafe 3 Cable (2m)"
+  },
+  "35W Dual USB-C Port Power Adapter Or 70W USB-C Power Adapter": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "35W Dual USB-C Port Power Adapter Or 70W USB-C Power Adapter"
+  },
+  "13-Inch MacBook Air": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "13-Inch MacBook Air"
+  },
+  "Arsenic-Free Glass": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Arsenic-Free Glass"
+  },
+  "Mercury-, BFR- And PVC-Free": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Mercury-, BFR- And PVC-Free"
+  },
+  "MacBook Air (13-Inch, M4, 2025)": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "MacBook Air (13-Inch, M4, 2025)"
+  },
+  "Apple M4": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apple M4"
+  },
+  "IPhone Mirroring": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "IPhone Mirroring"
+  },
+  "Mac App Store": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Mac App Store"
+  },
+  "Apple Account": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apple Account"
+  },
+  "ENERGY STAR": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "ENERGY STAR"
+  },
+  "US Environmental Protection Agency": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "US Environmental Protection Agency"
+  },
+  "Apples Regulated Substances Specification": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apples Regulated Substances Specification"
+  },
+  "European Union Directive 2011/65/EU": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "European Union Directive 2011/65/EU"
+  },
+  "Apples Supplier Clean Energy Programme": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apples Supplier Clean Energy Programme"
+  },
+  "Support.apple.com/en-gb/102596": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Support.apple.com/en-gb/102596"
+  },
+  "Apple.com/uk/batteries": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apple.com/uk/batteries"
+  },
+  "MacBook Air (15-Inch, M4, 2025)": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "MacBook Air (15-Inch, M4, 2025)"
+  },
+  "13-Inch MacBook Air Systems": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "13-Inch MacBook Air Systems"
+  },
+  "15-Inch MacBook Air Systems": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "15-Inch MacBook Air Systems"
+  },
+  "PVC": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "PVC"
+  },
+  "Phthalates": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Phthalates"
+  },
+  "Lead": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Lead"
+  },
+  "Apples Carbon Model": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apples Carbon Model"
+  },
+  "Apples Carbon Intensity Of Key Materials": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apples Carbon Intensity Of Key Materials"
+  },
+  "Apples Average Mix Of Transport Modes": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apples Average Mix Of Transport Modes"
+  },
+  "Apples 2030 Product Carbon-Neutrality Goal": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apples 2030 Product Carbon-Neutrality Goal"
+  },
+  "Us Retail Packaging": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Us Retail Packaging"
+  },
+  "Adhesives": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Adhesives"
+  },
+  "Inks": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Inks"
+  },
+  "Coatings": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Coatings"
+  },
+  "Apples Supplier Manufacturing Allocations": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apples Supplier Manufacturing Allocations"
+  },
+  "Apples Carbon Reduction Calculations": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apples Carbon Reduction Calculations"
+  },
+  "Business-As-Usual Scenario": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Business-As-Usual Scenario"
+  },
+  "Latest Modelled Grid": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Latest Modelled Grid"
+  },
+  "Regional Emissions Factors": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Regional Emissions Factors"
+  },
+  "Fiscal Years 2017 To 2019": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Fiscal Years 2017 To 2019"
+  },
+  "India": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "India"
+  },
+  "Thailand": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Thailand"
+  },
+  "Republic Of Korea": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Republic Of Korea"
+  },
+  "Apples End Customers": {
+    "chunk_ids": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790828627,
+    "update_time": 1790828627,
+    "_id": "Apples End Customers"
+  },
+  "Apex Electronics Manufacturing Services Co., Ltd.": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Apex Electronics Manufacturing Services Co., Ltd."
+  },
+  "AEMS": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 3,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "AEMS"
+  },
+  "Samsung": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 3,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Samsung"
+  },
+  "Mai Tran": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Mai Tran"
+  },
+  "Daniel Wu": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Daniel Wu"
+  },
+  "Bac Ninh Campus": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Bac Ninh Campus"
+  },
+  "AEMS Shenzhen Operations": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "AEMS Shenzhen Operations"
+  },
+  "AEMS India Electronics Campus": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "AEMS India Electronics Campus"
+  },
+  "Galaxy A56R 5G / Orion-R Program": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Galaxy A56R 5G / Orion-R Program"
+  },
+  "iPhone 16 Family": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "iPhone 16 Family"
+  },
+  "SM-A568B/DS": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 4,
+    "update_time": 1791262517,
+    "_id": "SM-A568B/DS"
+  },
+  "SM-A568U1": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 4,
+    "update_time": 1791262517,
+    "_id": "SM-A568U1"
+  },
+  "QT-AEMS-260527-118": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "QT-AEMS-260527-118"
+  },
+  "QT-AEMS-240612-077 Rev C": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "QT-AEMS-240612-077 Rev C"
+  },
+  "TP-SAM-ORR-DVT1-006": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "TP-SAM-ORR-DVT1-006"
+  },
+  "TR-SAM-ORR-006-03": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "TR-SAM-ORR-006-03"
+  },
+  "PCN AEMS-APL-xxxx": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "PCN AEMS-APL-xxxx"
+  },
+  "Samsung Galaxy A56R 5G / Orion-R Program": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Samsung Galaxy A56R 5G / Orion-R Program"
+  },
+  "Apple iPhone 16 Manufacturing Support": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Apple iPhone 16 Manufacturing Support"
+  },
+  "Document ID AEMS-QA-SP-2026-014": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Document ID AEMS-QA-SP-2026-014"
+  },
+  "Revision 2.1": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Revision 2.1"
+  },
+  "Issue Date 18 August 2026": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Issue Date 18 August 2026"
+  },
+  "Owner Corporate Quality & Customer Engineering": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Owner Corporate Quality & Customer Engineering"
+  },
+  "External - Controlled Capability Statement": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "External - Controlled Capability Statement"
+  },
+  "Primary Site File QF-880214, Volume 2, Section 7": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Primary Site File QF-880214, Volume 2, Section 7"
+  },
+  "AEMS-QA-SP-2026-014": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "AEMS-QA-SP-2026-014"
+  },
+  "AEMS Commercial Office Singapore": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "AEMS Commercial Office Singapore"
+  },
+  "AEMS Supplier Quality Representative": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "AEMS Supplier Quality Representative"
+  },
+  "AEMS Customer Engineering Lead": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "AEMS Customer Engineering Lead"
+  },
+  "Tier-1 EMS Supplier": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Tier-1 EMS Supplier"
+  },
+  "Precision Subassembly Manufacturer": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Precision Subassembly Manufacturer"
+  },
+  "NPI Integration Partner": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "NPI Integration Partner"
+  },
+  "AEMS Headquarters": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "AEMS Headquarters"
+  },
+  "Nickel Shielding Foil": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Nickel Shielding Foil"
+  },
+  "Polyimide Flexible-Circuit Substrates": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Polyimide Flexible-Circuit Substrates"
+  },
+  "Acrylic Pressure-Sensitive Adhesives": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Acrylic Pressure-Sensitive Adhesives"
+  },
+  "QF-771906, Volume 5, Section 2": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "QF-771906, Volume 5, Section 2"
+  },
+  "Customer Program": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Customer Program"
+  },
+  "Program-Specific Control Plans": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Program-Specific Control Plans"
+  },
+  "High-Density SMT": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "High-Density SMT"
+  },
+  "Micro-Coax and Flex Preparation": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Micro-Coax and Flex Preparation"
+  },
+  "Precision Metal Stamping": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Precision Metal Stamping"
+  },
+  "CNC Secondary Operations": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "CNC Secondary Operations"
+  },
+  "Laser Welding": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Laser Welding"
+  },
+  "Conductive-Adhesive Application": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Conductive-Adhesive Application"
+  },
+  "Gasket Placement": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Gasket Placement"
+  },
+  "Vision Inspection": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Vision Inspection"
+  },
+  "Automated Electrical Test": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Automated Electrical Test"
+  },
+  "Serialized Pack-Out": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Serialized Pack-Out"
+  },
+  "IPC-A-610": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "IPC-A-610"
+  },
+  "J-STD-001": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "J-STD-001"
+  },
+  "Printed-Board and Flex Assembly": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Printed-Board and Flex Assembly"
+  },
+  "Stainless-Steel Parts": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Stainless-Steel Parts"
+  },
+  "Aluminum Parts": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Aluminum Parts"
+  },
+  "Copper-Alloy Parts": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Copper-Alloy Parts"
+  },
+  "Nickel-Plated Stainless Steel": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Nickel-Plated Stainless Steel"
+  },
+  "Copper-Nickel Foil": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Copper-Nickel Foil"
+  },
+  "Conductive Fabric": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Conductive Fabric"
+  },
+  "Optical Systems": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Optical Systems"
+  },
+  "Coordinate Measurement Equipment": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Coordinate Measurement Equipment"
+  },
+  "Adhesive, Gasket and Seal Conversion": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Adhesive, Gasket and Seal Conversion"
+  },
+  "PET Carrier Films": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "PET Carrier Films"
+  },
+  "Conductive Foams": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Conductive Foams"
+  },
+  "Elastomer Gaskets": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Elastomer Gaskets"
+  },
+  "Humidity-Controlled Areas": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Humidity-Controlled Areas"
+  },
+  "Supplier Certificate Of Conformance": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Supplier Certificate Of Conformance"
+  },
+  "Released Process Window": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Released Process Window"
+  },
+  "Aems Quality System": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Aems Quality System"
+  },
+  "ISO 9001": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "ISO 9001"
+  },
+  "ISO 14001": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "ISO 14001"
+  },
+  "Eu RoHS": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Eu RoHS"
+  },
+  "Reach Candidate-List Obligations": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Reach Candidate-List Obligations"
+  },
+  "Approved Manufacturer List": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Approved Manufacturer List"
+  },
+  "Resin Grade": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Resin Grade"
+  },
+  "Adhesive Chemistry": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Adhesive Chemistry"
+  },
+  "Plating System": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Plating System"
+  },
+  "Alloy": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Alloy"
+  },
+  "Connector Source": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Connector Source"
+  },
+  "Flex Laminate": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Flex Laminate"
+  },
+  "Elastomer Formulation": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Elastomer Formulation"
+  },
+  "Manufacturing Site": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Manufacturing Site"
+  },
+  "Engineering Review": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Engineering Review"
+  },
+  "Supplier Change Coordinator": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Supplier Change Coordinator"
+  },
+  "PCN Number": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "PCN Number"
+  },
+  "Incoming Material Inspection": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Incoming Material Inspection"
+  },
+  "First-Article Inspection": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "First-Article Inspection"
+  },
+  "Torque Or Retention Checks": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Torque Or Retention Checks"
+  },
+  "Electrical Continuity Results": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Electrical Continuity Results"
+  },
+  "Dimensional Reports": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Dimensional Reports"
+  },
+  "Thermal Screening": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Thermal Screening"
+  },
+  "Environmental Exposure Records": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Environmental Exposure Records"
+  },
+  "Cosmetic Inspection": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Cosmetic Inspection"
+  },
+  "Reliability Sampling": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Reliability Sampling"
+  },
+  "Nonconformance Disposition": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Nonconformance Disposition"
+  },
+  "Bac Ninh": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Bac Ninh"
+  },
+  "Shenzhen": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Shenzhen"
+  },
+  "Sriperumbudur": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Sriperumbudur"
+  },
+  "Aems": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Aems"
+  },
+  "Bac Ninh Site Code": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Bac Ninh Site Code"
+  },
+  "Shenzhen Site Code": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Shenzhen Site Code"
+  },
+  "Sriperumbudur Site Code": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Sriperumbudur Site Code"
+  },
+  "Samsung Orion-R": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Samsung Orion-R"
+  },
+  "Apple Precision Mechanical Work": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Apple Precision Mechanical Work"
+  },
+  "Priya Nair": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Priya Nair"
+  },
+  "Jason Lin": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Jason Lin"
+  },
+  "Document Id Aems-Qa-Sp-2026-014": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Document Id Aems-Qa-Sp-2026-014"
+  },
+  "Supplier File Qf-880214": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Supplier File Qf-880214"
+  },
+  "TP-A56R-REG-04 Rev B": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 4,
+    "update_time": 1791262517,
+    "_id": "TP-A56R-REG-04 Rev B"
+  },
+  "TP-SAM-ORR-DVT1-006 Rev A": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "TP-SAM-ORR-DVT1-006 Rev A"
+  },
+  "CERT-A56R-NA-62368-01": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "update_time": 1791262517,
+    "_id": "CERT-A56R-NA-62368-01"
+  },
+  "TP-A56R-FCC-RF-03 Rev A": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "update_time": 1791262517,
+    "_id": "TP-A56R-FCC-RF-03 Rev A"
+  },
+  "TP-A56R-RED-EU6-02 Rev A": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 3,
+    "update_time": 1791262517,
+    "_id": "TP-A56R-RED-EU6-02 Rev A"
+  },
+  "TR-SAM-ORR-006-xx Series": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "TR-SAM-ORR-006-xx Series"
+  },
+  "AEMS Internal Work Order": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "AEMS Internal Work Order"
+  },
+  "Part Number": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Part Number"
+  },
+  "Line": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Line"
+  },
+  "Date Code": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Date Code"
+  },
+  "Quantity": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Quantity"
+  },
+  "Certificate Of Conformance": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Certificate Of Conformance"
+  },
+  "Traveler": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Traveler"
+  },
+  "Lot": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Lot"
+  },
+  "Quotation": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Quotation"
+  },
+  "Customer And Opportunity Identifiers": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Customer And Opportunity Identifiers"
+  },
+  "Tooling": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Tooling"
+  },
+  "Nre": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Nre"
+  },
+  "Unit Pricing": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Unit Pricing"
+  },
+  "Qualification Scope": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Qualification Scope"
+  },
+  "Deliverables": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Deliverables"
+  },
+  "Commercial Quotations": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Commercial Quotations"
+  },
+  "Engineering Travelers": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Engineering Travelers"
+  },
+  "Customer Engineering": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Customer Engineering"
+  },
+  "Supplier Quality": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Supplier Quality"
+  },
+  "Revised Offer": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Revised Offer"
+  },
+  "Price-Only Changes": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Price-Only Changes"
+  },
+  "Technical Changes": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Technical Changes"
+  },
+  "Controlled Product Configuration": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Controlled Product Configuration"
+  },
+  "Program References": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Program References"
+  },
+  "Customer-Approved Specifications": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Customer-Approved Specifications"
+  },
+  "Released Internal Work Instructions": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Released Internal Work Instructions"
+  },
+  "Traceable Production Records": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Traceable Production Records"
+  },
+  "Fit": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Fit"
+  },
+  "Form": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Form"
+  },
+  "Function": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Function"
+  },
+  "Safety": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Safety"
+  },
+  "Regulatory Compliance": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Regulatory Compliance"
+  },
+  "Reliability": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Reliability"
+  },
+  "Material Composition": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Material Composition"
+  },
+  "Manufacturing Location": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Manufacturing Location"
+  },
+  "Commercial Owner": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Commercial Owner"
+  },
+  "Report": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Report"
+  },
+  "Foxconn": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Foxconn"
+  },
+  "Galaxy A56R": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Galaxy A56R"
+  },
+  "Dvt1 Build": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Dvt1 Build"
+  },
+  "Usb-C/Audio Flex": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Usb-C/Audio Flex"
+  },
+  "USB/Audio Flex": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "USB/Audio Flex"
+  },
+  "Formal Radio/EMC Testing": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Formal Radio/EMC Testing"
+  },
+  "Certification-Support Test Records": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Certification-Support Test Records"
+  },
+  "Samsung Opportunity/Program": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Samsung Opportunity/Program"
+  },
+  "AEMS Work Order": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "AEMS Work Order"
+  },
+  "Component Revision": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Component Revision"
+  },
+  "Supplier-Plan Test Item": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Supplier-Plan Test Item"
+  },
+  "Shipment Manifest": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Shipment Manifest"
+  },
+  "Customer Certification Project": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Customer Certification Project"
+  },
+  "Test-Plan Reference": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Test-Plan Reference"
+  },
+  "Purchase Order": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Purchase Order"
+  },
+  "Certification Build": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Certification Build"
+  },
+  "Supplier Test Plan": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Supplier Test Plan"
+  },
+  "Certification Authority": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Certification Authority"
+  },
+  "Certification Activity": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Certification Activity"
+  },
+  "Supplier": {
+    "chunk_ids": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1790845618,
+    "update_time": 1790845618,
+    "_id": "Supplier"
+  },
+  "Samsung Electronics": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Samsung Electronics"
+  },
+  "PS-A56R-001": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "PS-A56R-001"
+  },
+  "Galaxy A56R 5G": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Galaxy A56R 5G"
+  },
+  "Galaxy A5x 5G": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Galaxy A5x 5G"
+  },
+  "Orion-R": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Orion-R"
+  },
+  "Mobile eXperience - Product Compliance Engineering": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Mobile eXperience - Product Compliance Engineering"
+  },
+  "Samsung Electronics Vietnam Thai Nguyen Co., Ltd. (SEVT)": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Samsung Electronics Vietnam Thai Nguyen Co., Ltd. (SEVT)"
+  },
+  "Yen Binh, Thai Nguyen, Vietnam": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Yen Binh, Thai Nguyen, Vietnam"
+  },
+  "File E512847, Vol. 1, Sec. 3": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "File E512847, Vol. 1, Sec. 3"
+  },
+  "DVT1": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "DVT1"
+  },
+  "USB Type-C Receptacle": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "USB Type-C Receptacle"
+  },
+  "Qi- Compatible Receiver": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Qi- Compatible Receiver"
+  },
+  "Samsung SDI EB-BA568ABY": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Samsung SDI EB-BA568ABY"
+  },
+  "GH82-41001A": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "GH82-41001A"
+  },
+  "GH82-41020A": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "GH82-41020A"
+  },
+  "DS-EBBA568-5K-R2": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "DS-EBBA568-5K-R2"
+  },
+  "GH42-01192A": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "GH42-01192A"
+  },
+  "FCC Rules": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "FCC Rules"
+  },
+  "Samsung Electronics Vietnam Thai Nguyen Co., Ltd.": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Samsung Electronics Vietnam Thai Nguyen Co., Ltd."
+  },
+  "IEC 60529": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 3,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "IEC 60529"
+  },
+  "5G NR": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "5G NR"
+  },
+  "LTE": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "LTE"
+  },
+  "Bluetooth 5.4": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Bluetooth 5.4"
+  },
+  "NFC": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "NFC"
+  },
+  "GNSS": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "GNSS"
+  },
+  "USB-C": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "USB-C"
+  },
+  "15 W Inductive Charging": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "15 W Inductive Charging"
+  },
+  "Graphite": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Graphite"
+  },
+  "Ice Blue": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Ice Blue"
+  },
+  "Aluminum Midframe": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Aluminum Midframe"
+  },
+  "Reinforced Polycarbonate Rear Cover": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Reinforced Polycarbonate Rear Cover"
+  },
+  "6063-T6 Aluminum": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "6063-T6 Aluminum"
+  },
+  "PC/ABS": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "PC/ABS"
+  },
+  "Aluminosilicate Display Glass": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Aluminosilicate Display Glass"
+  },
+  "Silicone Elastomer Seals": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Silicone Elastomer Seals"
+  },
+  "ME-A56R-3001 Rev B": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 3,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "ME-A56R-3001 Rev B"
+  },
+  "Dual-Path Charger Over-Voltage Protection": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Dual-Path Charger Over-Voltage Protection"
+  },
+  "Battery Pack Protection PCB": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Battery Pack Protection PCB"
+  },
+  "10 kΩ NTC Temperature Monitoring": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "10 kΩ NTC Temperature Monitoring"
+  },
+  "Software Charge Timeout": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Software Charge Timeout"
+  },
+  "USB Connector Thermal Sensor": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "USB Connector Thermal Sensor"
+  },
+  "U.S. Equipment Authorization Testing": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "U.S. Equipment Authorization Testing"
+  },
+  "Bluetooth": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Bluetooth"
+  },
+  "SAMSUNG ELECTRONICS": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "SAMSUNG ELECTRONICS"
+  },
+  "PS-A56R-001 Rev C": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 4,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "PS-A56R-001 Rev C"
+  },
+  "Display Assembly": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Display Assembly"
+  },
+  "Battery Pack": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Battery Pack"
+  },
+  "Main Printed Board Assembly": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Main Printed Board Assembly"
+  },
+  "USB-C Receptacle": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "USB-C Receptacle"
+  },
+  "Rear Wide Camera": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Rear Wide Camera"
+  },
+  "NFC / Wireless-Charge Assembly": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "NFC / Wireless-Charge Assembly"
+  },
+  "Bottom Speaker Module": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Bottom Speaker Module"
+  },
+  "EBOM-A56R-1001 Rev D": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "EBOM-A56R-1001 Rev D"
+  },
+  "Midframe": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Midframe"
+  },
+  "Rear Cover": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Rear Cover"
+  },
+  "Display Bonding": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Display Bonding"
+  },
+  "Thermal Interface": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Thermal Interface"
+  },
+  "EMI Shields": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "EMI Shields"
+  },
+  "Gaskets": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Gaskets"
+  },
+  "IEC 62368-1:2023": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "IEC 62368-1:2023"
+  },
+  "UL/CSA 62368-1": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "UL/CSA 62368-1"
+  },
+  "IEC 62133-2:2017 + A1:2021": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "IEC 62133-2:2017 + A1:2021"
+  },
+  "UN Manual of Tests and Criteria, Part III, Subsection 38.3": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "UN Manual of Tests and Criteria, Part III, Subsection 38.3"
+  },
+  "Directive 2014/53/EU": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Directive 2014/53/EU"
+  },
+  "EN 300 328": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "EN 300 328"
+  },
+  "EN 301 893": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "EN 301 893"
+  },
+  "FCC": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "FCC"
+  },
+  "47 CFR Part 15": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "47 CFR Part 15"
+  },
+  "IP67": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "IP67"
+  },
+  "DVT1 Certification Units": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "DVT1 Certification Units"
+  },
+  "TR-A56R-PRE-EMC-017 Rev A": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "TR-A56R-PRE-EMC-017 Rev A"
+  },
+  "TR-A56R-BAT-009 Rev A": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 3,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "TR-A56R-BAT-009 Rev A"
+  },
+  "5 GHz": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "5 GHz"
+  },
+  "6 GHz": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "6 GHz"
+  },
+  "LE Audio": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "LE Audio"
+  },
+  "EU/UK Variants": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "EU/UK Variants"
+  },
+  "Radio Equipment Directive 2014/53/EU": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Radio Equipment Directive 2014/53/EU"
+  },
+  "Samsung Display": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Samsung Display"
+  },
+  "Samsung SDI": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Samsung SDI"
+  },
+  "Amphenol ICC": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Amphenol ICC"
+  },
+  "Samsung Electro-Mechanics": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Samsung Electro-Mechanics"
+  },
+  "Goertek": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Goertek"
+  },
+  "Antenna/Receiver Assembly GH42-01192A": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Antenna/Receiver Assembly GH42-01192A"
+  },
+  "Supplier Certificate": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Supplier Certificate"
+  },
+  "Samsung Controlled-Substances Specification": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Samsung Controlled-Substances Specification"
+  },
+  "EU RoHS Requirements": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "EU RoHS Requirements"
+  },
+  "Directive 2011/65/EU": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Directive 2011/65/EU"
+  },
+  "REACH Regulation (EC) No 1907/2006": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "REACH Regulation (EC) No 1907/2006"
+  },
+  "Product Safety": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Product Safety"
+  },
+  "Rechargeable Battery": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Rechargeable Battery"
+  },
+  "Radio / EMC - EU": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Radio / EMC - EU"
+  },
+  "Radio / EMC - U.S.": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Radio / EMC - U.S."
+  },
+  "Ingress Protection": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Ingress Protection"
+  },
+  "A56R-DVT1-0001": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "A56R-DVT1-0001"
+  },
+  "A56R-DVT1-0036": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "A56R-DVT1-0036"
+  },
+  "A56R-DVT1-0013": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "A56R-DVT1-0013"
+  },
+  "A56R-DVT1-0028": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "A56R-DVT1-0028"
+  },
+  "A56R-DVT1-0029": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "A56R-DVT1-0029"
+  },
+  "A56R-DVT1-0012": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "A56R-DVT1-0012"
+  },
+  "SAMSUNG ELECTRONICS - SYNTHETIC COMPLIANCE PROGRAM": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "SAMSUNG ELECTRONICS - SYNTHETIC COMPLIANCE PROGRAM"
+  },
+  "TP-A56R-SAF-62368-01 Rev A": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "TP-A56R-SAF-62368-01 Rev A"
+  },
+  "SAF-A56R-01": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "SAF-A56R-01"
+  },
+  "SAF-A56R-02": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "SAF-A56R-02"
+  },
+  "SAF-A56R-03": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "SAF-A56R-03"
+  },
+  "SAF-A56R-04": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "SAF-A56R-04"
+  },
+  "SAF-A56R-05": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "SAF-A56R-05"
+  },
+  "SAF-A56R-06": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "SAF-A56R-06"
+  },
+  "File E512847, Volume 1, Section 3": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "File E512847, Volume 1, Section 3"
+  },
+  "CERT-A56R-CB-62368-01": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "CERT-A56R-CB-62368-01"
+  },
+  "TP-A56R-CB-62368-02 Rev A": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "TP-A56R-CB-62368-02 Rev A"
+  },
+  "CERT-A56R-BAT-62133-01": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "CERT-A56R-BAT-62133-01"
+  },
+  "EB-BA568ABY Rev B": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "EB-BA568ABY Rev B"
+  },
+  "TP-A56R-BAT-62133-01 Rev B": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "TP-A56R-BAT-62133-01 Rev B"
+  },
+  "BAT-A56R-01": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "BAT-A56R-01"
+  },
+  "BAT-A56R-02": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "BAT-A56R-02"
+  },
+  "BA568Aby Rev B": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "BA568Aby Rev B"
+  },
+  "Iec 62133-2:2017 + A1:2021": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Iec 62133-2:2017 + A1:2021"
+  },
+  "A56R Charging-Safeguard Review": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "A56R Charging-Safeguard Review"
+  },
+  "BAT-A56R-03": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "BAT-A56R-03"
+  },
+  "BAT-A56R-04": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "BAT-A56R-04"
+  },
+  "Synthetic Compliance Program": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Synthetic Compliance Program"
+  },
+  "BAT-A56R-05": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "BAT-A56R-05"
+  },
+  "BAT-A56R-06": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "BAT-A56R-06"
+  },
+  "UN 38.3 Transport Documentation": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "UN 38.3 Transport Documentation"
+  },
+  "Finished-Product Safety Certification": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Finished-Product Safety Certification"
+  },
+  "CERT-A56R-FCC-RF-01": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "CERT-A56R-FCC-RF-01"
+  },
+  "RF-A56R-US-01": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "RF-A56R-US-01"
+  },
+  "RF-A56R-US-02": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "RF-A56R-US-02"
+  },
+  "RF-A56R-US-03": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "RF-A56R-US-03"
+  },
+  "EMC-A56R-US-04": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "EMC-A56R-US-04"
+  },
+  "RF-A56R-US-05": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "RF-A56R-US-05"
+  },
+  "CERT-A56R-RED-EU6-01": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "CERT-A56R-RED-EU6-01"
+  },
+  "RF-A56R-EU-01": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "RF-A56R-EU-01"
+  },
+  "RF-A56R-EU-02": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "RF-A56R-EU-02"
+  },
+  "EMC-A56R-EU-03": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "EMC-A56R-EU-03"
+  },
+  "RF-A56R-EU-04": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "RF-A56R-EU-04"
+  },
+  "SAF-A56R-EU-05": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "SAF-A56R-EU-05"
+  },
+  "CERT-A56R-PTCRB-01": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "CERT-A56R-PTCRB-01"
+  },
+  "TP-A56R-PTCRB-01 Rev A": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "TP-A56R-PTCRB-01 Rev A"
+  },
+  "TP-A56R-IP67-01 Rev B": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "TP-A56R-IP67-01 Rev B"
+  },
+  "Model SM-A568U1": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Model SM-A568U1"
+  },
+  "Model SM-A568B/DS": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Model SM-A568B/DS"
+  },
+  "The Released Radio SKU": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "The Released Radio SKU"
+  },
+  "Finished Construction": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Finished Construction"
+  },
+  "Applicable FCC Rule Parts": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Applicable FCC Rule Parts"
+  },
+  "Enabled Cellular, Wi-Fi, Bluetooth And NFC Configurations": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Enabled Cellular, Wi-Fi, Bluetooth And NFC Configurations"
+  },
+  "Production RF Configuration": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Production RF Configuration"
+  },
+  "Representative Worst-Case Operating Modes": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Representative Worst-Case Operating Modes"
+  },
+  "Final Antenna Configuration": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Final Antenna Configuration"
+  },
+  "Supported Transmit Positions": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Supported Transmit Positions"
+  },
+  "Applicable EN 300 328 Requirements": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Applicable EN 300 328 Requirements"
+  },
+  "Applicable EN 301 893 Requirements": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Applicable EN 301 893 Requirements"
+  },
+  "Applicable EN 301 489 Series Requirements": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Applicable EN 301 489 Series Requirements"
+  },
+  "Final Handset Configuration": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Final Handset Configuration"
+  },
+  "IEC/EN 62368-1 Product-Safety File": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "IEC/EN 62368-1 Product-Safety File"
+  },
+  "Configured 5G NR/LTE RF Conformance": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Configured 5G NR/LTE RF Conformance"
+  },
+  "Protocol/Conformance": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Protocol/Conformance"
+  },
+  "Band-Combination Verification": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Band-Combination Verification"
+  },
+  "Production Radio SKU": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Production Radio SKU"
+  },
+  "Sample Allocation": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Sample Allocation"
+  },
+  "Configuration Lock": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Configuration Lock"
+  },
+  "Witness Requirements": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Witness Requirements"
+  },
+  "Retest Disposition": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Retest Disposition"
+  },
+  "Shared Record": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Shared Record"
+  },
+  "Sample Configuration": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Sample Configuration"
+  },
+  "Method": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Method"
+  },
+  "Acceptance Basis": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Acceptance Basis"
+  },
+  "Certification Owner": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Certification Owner"
+  },
+  "SYNTHETIC COMPLIANCE PROGRAM": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "SYNTHETIC COMPLIANCE PROGRAM"
+  },
+  "Certification Verification Addendum": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Certification Verification Addendum"
+  },
+  "Certification Closeout Evidence": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Certification Closeout Evidence"
+  },
+  "Certification Workstream": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Certification Workstream"
+  },
+  "Controlling Test Plan": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Controlling Test Plan"
+  },
+  "Formal Record": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Formal Record"
+  },
+  "Certification Project": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Certification Project"
+  },
+  "Test-Plan Number": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Test-Plan Number"
+  },
+  "Test-Case Identifier": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Test-Case Identifier"
+  },
+  "Sample Serial Number": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Sample Serial Number"
+  },
+  "Hardware/BOM Revision": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Hardware/BOM Revision"
+  },
+  "Firmware Build": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Firmware Build"
+  },
+  "Laboratory": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Laboratory"
+  },
+  "Date": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Date"
+  },
+  "Result": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Result"
+  },
+  "Deviation": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Deviation"
+  },
+  "Retest": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Retest"
+  },
+  "Open Failures": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Open Failures"
+  },
+  "Configuration Substitutions": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Configuration Substitutions"
+  },
+  "Disposition Approval": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791262517,
+    "update_time": 1791262517,
+    "_id": "Disposition Approval"
+  },
+  "Homogeneous Materials": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262518,
+    "update_time": 1791262518,
+    "_id": "Homogeneous Materials"
+  },
+  "Supplier Material Declarations": {
+    "chunk_ids": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791262518,
+    "update_time": 1791262518,
+    "_id": "Supplier Material Declarations"
+  }
+}

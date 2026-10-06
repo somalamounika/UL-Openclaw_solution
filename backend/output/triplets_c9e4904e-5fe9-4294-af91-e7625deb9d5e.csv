@@ -1,0 +1,6 @@
+source_type,source_node,relationship,destination_type,destination_node,description,keywords
+applicant,Apple Inc,has_product,product,"MacBook Air (13-Inch, M4, 2025)",Apple owns the MacBook Air product.,"brand, owner, product"
+company,Energy Star,has_product,product,"MacBook Air (13-Inch, M4, 2025)",The MacBook Air is ENERGY STAR certified.,"certification, compliance"
+company,Energy Star,party_role_supplier,applicant,Apple Inc,The ENERGY STAR mark is owned by the EPA.,"ownership, trademark"
+ul,UL Solutions,party_role_applicant,applicant,Apple Inc,UL applicant link for 'Apple Inc'.,PARTY_ROLE_APPLICANT
+ul,UL Solutions,party_role_applicant,applicant,Energy Star,UL applicant link for 'Energy Star'.,PARTY_ROLE_APPLICANT

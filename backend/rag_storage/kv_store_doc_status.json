@@ -1,0 +1,236 @@
+{
+  "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001": {
+    "status": "processed",
+    "content_summary": "MacBook Air (13-inch, M4, 2025) -\nTech Specs\nYear introduced: 2025\nFinish\nChip\nApple M4 chip\nMedia Engine\nConfigurable to:\nSky Blue\nSilver\nStarlight\nMidnight\n10‑core CPU with 4 performance cores and 6 efficiency\ncores\n8‑core GPU, 10‑core GPU\nHardware...",
+    "content_length": 12033,
+    "created_at": "2026-10-01T04:23:24.813310+00:00",
+    "updated_at": "2026-10-01T04:23:58.086711+00:00",
+    "file_path": "MacBook Air- TS 2.pdf",
+    "track_id": "enqueue_20261001_095324_1fa31e43",
+    "content_hash": "99f30b35fd9c60f425f3f96b963cfc66",
+    "metadata": {
+      "parse_start_time": 1790828604,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1790828604,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1790828604,
+      "process_end_time": 1790828638,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 3,
+    "chunks_list": [
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-000",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-001",
+      "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001-chunk-002"
+    ]
+  },
+  "dup-5de2466ab21b3bc84438948bae51cd67": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+    "content_length": 12033,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-10-01T05:52:27.835800+00:00",
+    "updated_at": "2026-10-01T05:52:27.835824+00:00",
+    "file_path": "MacBook Air- TS 2.pdf",
+    "track_id": "enqueue_20261001_112227_00d7efe6",
+    "error_msg": "File name already exists. Original doc_id: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001, Status: DocStatus.PROCESSED",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+      "original_track_id": "enqueue_20261001_095324_1fa31e43"
+    }
+  },
+  "dup-9dc5a17bc58269416e5bcf8f31deab73": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+    "content_length": 12033,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-10-01T07:36:26.540798+00:00",
+    "updated_at": "2026-10-01T07:36:26.540817+00:00",
+    "file_path": "MacBook Air- TS 2.pdf",
+    "track_id": "enqueue_20261001_130626_8dc706b0",
+    "error_msg": "File name already exists. Original doc_id: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001, Status: DocStatus.PROCESSED",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+      "original_track_id": "enqueue_20261001_095324_1fa31e43"
+    }
+  },
+  "dup-54eb7ad2af0004f2596603b4cc355e7f": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+    "content_length": 12033,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-10-01T08:55:40.717522+00:00",
+    "updated_at": "2026-10-01T08:55:40.717541+00:00",
+    "file_path": "MacBook Air- TS 2.pdf",
+    "track_id": "enqueue_20261001_142540_8d771fa5",
+    "error_msg": "File name already exists. Original doc_id: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001, Status: DocStatus.PROCESSED",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+      "original_track_id": "enqueue_20261001_095324_1fa31e43"
+    }
+  },
+  "dup-ef7f9f4e8b00e3c58cc7f50e2c420dba": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+    "content_length": 12032,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-10-01T08:59:07.381756+00:00",
+    "updated_at": "2026-10-01T08:59:07.381774+00:00",
+    "file_path": "MacBook Air- TS 2.pdf",
+    "track_id": "enqueue_20261001_142907_404b4b24",
+    "error_msg": "File name already exists. Original doc_id: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001, Status: DocStatus.PROCESSED",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+      "original_track_id": "enqueue_20261001_095324_1fa31e43"
+    }
+  },
+  "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001": {
+    "status": "processed",
+    "content_summary": "# AEMS\n\nApex Electronics Manufacturing Services Co., Ltd.\n\n### Supplier Corporate & Manufacturing Capability Statement\n\nConsumer Electronics Programs - Samsung, Apple\n\nDocument ID: AEMS-QA-SP-2026-014\n\nRevision: 2.1\n\nIssue date: 18 August 2026\n\nOwner...",
+    "content_length": 18859,
+    "created_at": "2026-10-01T09:06:31.962497+00:00",
+    "updated_at": "2026-10-01T09:07:14.639452+00:00",
+    "file_path": "Synthetic_Shared_Supplier_Profile_AEMS_KG_Enhanced 2 _1_.docx",
+    "track_id": "enqueue_20261001_143631_4d511119",
+    "content_hash": "f289f222791d027ef28d1fd67a24f0ed",
+    "metadata": {
+      "parse_start_time": 1790845592,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1790845592,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1790845592,
+      "process_end_time": 1790845634,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 4,
+    "chunks_list": [
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-000",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-001",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-002",
+      "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001-chunk-003"
+    ]
+  },
+  "dup-384f1c539159da57bf67650d86ec1e07": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: 312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001",
+    "content_length": 18859,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-10-01T09:59:29.027408+00:00",
+    "updated_at": "2026-10-01T09:59:29.027433+00:00",
+    "file_path": "Synthetic_Shared_Supplier_Profile_AEMS_KG_Enhanced 2 _1_.docx",
+    "track_id": "enqueue_20261001_152929_53dfb2f4",
+    "error_msg": "File name already exists. Original doc_id: 312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001, Status: DocStatus.PROCESSED",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "312a4b23-48ad-497c-82f3-b58e76e6301e:chunk_000001",
+      "original_track_id": "enqueue_20261001_143631_4d511119"
+    }
+  },
+  "dup-3b86757cdee377caabdd5064b5ad4e06": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+    "content_length": 12183,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-10-05T09:14:41.623435+00:00",
+    "updated_at": "2026-10-05T09:14:41.623450+00:00",
+    "file_path": "MacBook Air- TS 2.pdf",
+    "track_id": "enqueue_20261005_144441_18ebda8c",
+    "error_msg": "File name already exists. Original doc_id: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001, Status: DocStatus.PROCESSED",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+      "original_track_id": "enqueue_20261001_095324_1fa31e43"
+    }
+  },
+  "dup-7545d7757845dbacc2ac16373774f99f": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+    "content_length": 12034,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-10-05T10:48:28.447455+00:00",
+    "updated_at": "2026-10-05T10:48:28.447476+00:00",
+    "file_path": "MacBook Air- TS 2.pdf",
+    "track_id": "enqueue_20261005_161828_535f2045",
+    "error_msg": "File name already exists. Original doc_id: 726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001, Status: DocStatus.PROCESSED",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "726b0cc7-6290-41c6-aa12-e0d03faa2bfe:chunk_000001",
+      "original_track_id": "enqueue_20261001_095324_1fa31e43"
+    }
+  },
+  "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001": {
+    "status": "processed",
+    "content_summary": "SAMSUNG ELECTRONICS - SYNTHETIC COMPLIANCE PROGRAM\nPS-A56R-001 Rev C | Product Technical Specification\nSYNTHETIC TEST DOCUMENT - NOT AN AUTHENTIC SAMSUNG, SUPPLIER, OR CERTIFICATION-BODY RECORD\nPage 1\nProduct Technical Specification\nGalaxy A56R 5G - ...",
+    "content_length": 19208,
+    "created_at": "2026-10-06T04:54:43.614987+00:00",
+    "updated_at": "2026-10-06T04:55:31.166082+00:00",
+    "file_path": "02_Product_Technical_Specification_Galaxy_A56R_RevC_KG_Enhanced 2.pdf",
+    "track_id": "enqueue_20261006_102443_b9bc5470",
+    "content_hash": "3c54138f3ba11f9cc4dfe86d5d2b3cea",
+    "metadata": {
+      "parse_start_time": 1791262483,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1791262483,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1791262483,
+      "process_end_time": 1791262531,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 5,
+    "chunks_list": [
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-000",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-001",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-002",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-003",
+      "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001-chunk-004"
+    ]
+  },
+  "dup-14bf9cc78e8ea5c25220e7cd050359b5": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: 9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001",
+    "content_length": 19208,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-10-06T05:13:14.941998+00:00",
+    "updated_at": "2026-10-06T05:13:14.942014+00:00",
+    "file_path": "02_Product_Technical_Specification_Galaxy_A56R_RevC_KG_Enhanced 2.pdf",
+    "track_id": "enqueue_20261006_104314_403809bb",
+    "error_msg": "File name already exists. Original doc_id: 9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001, Status: DocStatus.PROCESSED",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "9e39f966-6a7f-4eaf-b4a1-91379f76dc4d:chunk_000001",
+      "original_track_id": "enqueue_20261006_102443_b9bc5470"
+    }
+  }
+}

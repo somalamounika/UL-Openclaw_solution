@@ -1,0 +1,3 @@
+source_type,source_node,relationship,destination_type,destination_node,description,keywords
+company,ENERGY STAR,party_role_supplier,applicant,Apple Inc,The ENERGY STAR mark is owned by the EPA.,"trademark, ownership"
+ul,UL Solutions,party_role_applicant,applicant,Apple Inc,UL applicant link for 'Apple Inc'.,PARTY_ROLE_APPLICANT

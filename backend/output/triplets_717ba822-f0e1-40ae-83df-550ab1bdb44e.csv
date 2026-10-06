@@ -1,0 +1,3 @@
+source_type,source_node,relationship,destination_type,destination_node,description,keywords
+company,"Samsung Electronics Vietnam Thai Nguyen Co., Ltd.",has_location,location,Yen Binh,The manufacturing site is located in Yen Binh.,"location, address"
+company,"Samsung Electronics Vietnam Thai Nguyen Co., Ltd.",has_location,location,Thai Nguyen,The manufacturing site is located in Thai Nguyen.,"location, address"

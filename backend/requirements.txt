@@ -1,0 +1,13 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.18
+python-dotenv==1.0.1
+pymupdf==1.25.1
+python-docx==1.1.2
+extract-msg==0.52.0
+openai==1.59.6
+lightrag-hku==1.5.6
+neo4j==5.27.0
+azure-search-documents==11.6.0
+azure-core==1.32.0
+azure-storage-blob==12.24.0

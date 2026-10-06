@@ -1,0 +1,164 @@
+@import url('https://rsms.me/inter/inter.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Both themes are defined here as custom properties, and the Cytoscape stylesheet is
+ * re-derived from the same tokens on theme change (see lib/cytoscapeStyle.ts), so the
+ * canvas and the chrome can never drift apart.
+ */
+:root {
+  --bg: #f6f7f9;
+  --surface: #ffffff;
+  --surface-2: #ffffff;
+  --surface-3: #f1f3f6;
+  --border: #e2e6ec;
+  --border-strong: #cdd4de;
+  --fg: #0f172a;
+  --fg-muted: #5b6779;
+  --fg-subtle: #8b95a5;
+  --accent: #0284c7;
+  --accent-fg: #ffffff;
+  --accent-soft: rgba(2, 132, 199, 0.22);
+  --danger: #dc2626;
+  --warn: #d97706;
+  --success: #16a34a;
+  /* Kept in lockstep with LIGHT_TOKENS.canvasBg in lib/cytoscapeStyle.ts: edge labels
+     are painted in that colour, so a mismatch shows up as a halo on every line. */
+  --canvas-bg: #f7f8f9;
+}
+
+.dark {
+  --bg: #080a0f;
+  --surface: #0d1017;
+  --surface-2: #131822;
+  --surface-3: #1a202c;
+  --border: #1f2634;
+  --border-strong: #2c3547;
+  --fg: #e8ecf4;
+  --fg-muted: #8b97ad;
+  --fg-subtle: #5f6b80;
+  --accent: #38bdf8;
+  --accent-fg: #04121c;
+  --accent-soft: rgba(56, 189, 248, 0.24);
+  --danger: #f87171;
+  --warn: #fbbf24;
+  --success: #4ade80;
+  /* Kept in lockstep with DARK_TOKENS.canvasBg in lib/cytoscapeStyle.ts. */
+  --canvas-bg: #0a0d13;
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'ss01';
+    -webkit-font-smoothing: antialiased;
+    /* The shell itself never scrolls; only inner panes do. */
+    overflow: hidden;
+  }
+
+  :focus-visible {
+    outline: none;
+  }
+
+  ::selection {
+    background: var(--accent-soft);
+  }
+}
+
+@layer components {
+  .rail-heading {
+    @apply px-3 pb-1.5 pt-3 text-2xs font-semibold uppercase tracking-[0.08em] text-fg-subtle;
+  }
+
+  .card {
+    @apply rounded-lg border border-[var(--border)] bg-[var(--surface-2)];
+  }
+
+  /* Provenance quote: evidence text is set in a serif face wherever it appears. */
+  .evidence-quote {
+    @apply border-l-2 border-[var(--accent)] pl-3 font-serif text-[13px] italic leading-relaxed text-fg-muted;
+  }
+
+  .canvas-overlay-panel {
+    @apply rounded-lg border border-[var(--border-strong)] shadow-lg backdrop-blur-md;
+    /* Tailwind's slash-opacity syntax cannot apply to a var() colour, so the
+       translucency is expressed directly. */
+    background-color: color-mix(in srgb, var(--surface) 92%, transparent);
+  }
+}
+
+/* Markdown answers from the assistant. The backend emits clean markdown deliberately. */
+.markdown-body {
+  @apply text-[13px] leading-relaxed text-fg;
+}
+.markdown-body > * + * {
+  @apply mt-2;
+}
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  @apply mt-3 text-[13px] font-semibold text-fg;
+}
+.markdown-body ul {
+  @apply list-disc space-y-1 pl-4;
+}
+.markdown-body ol {
+  @apply list-decimal space-y-1 pl-4;
+}
+.markdown-body code {
+  @apply rounded bg-[var(--surface-3)] px-1 py-0.5 font-mono text-[11px];
+}
+.markdown-body pre {
+  @apply overflow-x-auto rounded-md border border-[var(--border)] bg-[var(--surface-3)] p-2.5;
+}
+.markdown-body pre code {
+  @apply bg-transparent p-0;
+}
+.markdown-body a {
+  @apply text-accent underline underline-offset-2;
+}
+.markdown-body table {
+  @apply w-full border-collapse text-[12px];
+}
+.markdown-body th,
+.markdown-body td {
+  @apply border border-[var(--border)] px-2 py-1 text-left;
+}
+.markdown-body th {
+  @apply bg-[var(--surface-3)] font-semibold;
+}
+.markdown-body blockquote {
+  @apply border-l-2 border-[var(--border-strong)] pl-3 text-fg-muted;
+}
+
+/* Directional flow along cited edges in evidence mode. */
+@keyframes edge-flow {
+  to {
+    stroke-dashoffset: -24;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
